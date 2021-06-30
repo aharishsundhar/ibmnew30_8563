@@ -1,0 +1,7 @@
+{
+  "name": "ibmnew30",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
